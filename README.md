@@ -1,6 +1,6 @@
-#AffinityAnswers Assignment
+AffinityAnswers Assignment
 ---
-##**User Tweet - degree of Profanity Calculator**
+**User Tweet - degree of Profanity Calculator**
 ---
 
 This assignment uses two datasets:
